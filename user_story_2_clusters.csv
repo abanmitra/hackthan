@@ -1,0 +1,617 @@
+"CUSTOMER_ID","FIRST_NAME","LAST_NAME","CITY","EMAIL","AVERAGE_TRANSACTION_AMOUNT","FREQUENCY_OF_TRANSACTION","groups"
+2,"Eachelle","Taverner","Memphis","etaverner1@purevolume.com",15336.5,4,1
+3,"Nana","Gower","Washington","ngower2@cnet.com",9721,5,1
+4,"Tristam","Mullins","Lincoln","tmullins3@flavors.me",7887,2,2
+6,"Margeaux","Windibank","Albuquerque","mwindibank5@hugedomains.com",1665,1,2
+7,"Liesa","Ramsbotham","Young America","lramsbotham6@purevolume.com",8734.5,2,2
+12,"Gino","Shrieves","Houston","gshrievesb@yolasite.com",5398,2,2
+13,"Tadeo","Conibear","Panama City","tconibearc@storify.com",20735,1,3
+14,"Maura","Orr","Little Rock","morrd@youtube.com",12775,2,2
+17,"Andre","Allmen","Trenton","aallmeng@rediff.com",9730.33333333333,3,1
+18,"Maxy","Algeo","Pittsburgh","malgeoh@cyberchimps.com",24461,1,3
+19,"Woodie","Holberry","Los Angeles","wholberryi@issuu.com",16644.8,5,1
+20,"Walliw","Lunney","Lake Worth","wlunneyj@twitter.com",23285,1,3
+21,"Dar","Nyland","Fresno","dnylandk@free.fr",17768.5,2,3
+22,"Wainwright","Bane","Salem","wbanel@squidoo.com",5138,1,2
+23,"Oran","Gedney","Miami","ogedneym@freewebs.com",15210.5,4,1
+25,"Dorelia","Huton","Oklahoma City","dhutono@goodreads.com",3129,1,2
+26,"Codi","Chiechio","Denton","cchiechiop@admin.ch",4743,1,2
+27,"Pancho","Zorzetti","Odessa","pzorzettiq@rediff.com",1457,1,2
+28,"Ev","Borges","Toledo","eborgesr@latimes.com",8035.2,5,1
+29,"Welsh","Mallett","Bronx","wmalletts@4shared.com",11224.5,2,2
+30,"Vania","Duffill","Washington","vduffillt@microsoft.com",14053.8333333333,6,1
+31,"Jeth","Woolger","Denver","jwoolgeru@sitemeter.com",16736.5,4,1
+32,"Gianna","Trusty","Waco","gtrustyv@reddit.com",13097,1,2
+33,"Palm","Catling","Las Vegas","pcatlingw@umich.edu",11351.4,5,1
+34,"Philip","Pierce","Raleigh","ppiercex@addthis.com",9112,2,2
+35,"Libbie","Jeffress","Kansas City","ljeffressy@devhub.com",9791.2,5,1
+36,"Merrick","Enderlein","Davenport","menderleinz@va.gov",21158,1,3
+37,"Tiebold","Freeman","Pittsburgh","tfreeman10@51.la",22373,1,3
+38,"Iris","Vanni","Santa Monica","ivanni11@sun.com",18033.5,2,3
+42,"Donovan","Maplethorp","Fresno","dmaplethorp15@arizona.edu",14664.2,5,1
+43,"Reider","Moralas","New York City","rmoralas16@webeden.co.uk",9135,1,2
+44,"Hedwiga","Glamart","Charleston","hglamart17@tripadvisor.com",23565,1,3
+46,"Dalli","Dumphy","Oklahoma City","ddumphy19@cnn.com",4281.5,2,2
+47,"Vassili","Burnell","Memphis","vburnell1a@linkedin.com",17325,1,3
+48,"Ricardo","Rumin","Dallas","rrumin1b@youku.com",14030,2,2
+49,"Wendi","Painten","Spartanburg","wpainten1c@archive.org",2701,3,1
+50,"Barrie","Fourman","Fort Lauderdale","bfourman1d@soup.io",6204.5,2,2
+53,"Liz","Sange","Hagerstown","lsange1g@google.fr",15391,2,3
+56,"Ernestus","Ratley","Wilmington","eratley1j@about.com",1064,1,2
+57,"Jackson","Yegoshin","Littleton","jyegoshin1k@zdnet.com",17595,2,3
+59,"Clio","Keets","San Diego","ckeets1m@yahoo.co.jp",11383,3,1
+60,"Beryle","Auty","San Antonio","bauty1n@lycos.com",8248,3,1
+62,"Waylon","Lighten","Macon","wlighten1p@japanpost.jp",11373.75,4,1
+63,"Deloria","Goodluck","Lafayette","dgoodluck1q@baidu.com",17630.3333333333,3,1
+64,"Karel","Stoter","Schenectady","kstoter1r@howstuffworks.com",22623.5,2,3
+65,"Bradford","Crosser","El Paso","bcrosser1s@gnu.org",17065.4,5,1
+66,"Wally","Rawlinson","Kansas City","wrawlinson1t@bizjournals.com",12520.75,4,1
+68,"Auguste","Alelsandrovich","Frederick","aalelsandrovich1v@google.com.au",13863.3333333333,3,1
+70,"Gertrud","Capeloff","San Francisco","gcapeloff1x@seesaa.net",10675.6,5,1
+71,"Inglis","Puve","Burbank","ipuve1y@google.nl",17708,1,3
+72,"Rick","Webberley","Tacoma","rwebberley1z@bloglovin.com",14335,1,2
+73,"Camila","Beinke","Tyler","cbeinke20@hatena.ne.jp",12381.3333333333,3,1
+75,"Trix","Redmond","San Diego","tredmond22@reddit.com",12294.5,2,2
+76,"Kenny","Batchelar","Tacoma","kbatchelar23@dmoz.org",17811,1,3
+79,"Kennedy","Meugens","Ogden","kmeugens26@infoseek.co.jp",16945,3,1
+80,"Dallas","Howcroft","Raleigh","dhowcroft27@go.com",15381.5,2,3
+81,"Bobine","Napoleon","Dallas","bnapoleon28@paypal.com",7866,1,2
+82,"Olivier","Emmer","Grand Rapids","oemmer29@telegraph.co.uk",15232,3,1
+83,"Pepi","Macquire","Fort Smith","pmacquire2a@amazon.com",13996,2,2
+87,"Aeriell","Brunning","San Jose","abrunning2e@thetimes.co.uk",21976,1,3
+88,"Dalis","Cromblehome","Durham","dcromblehome2f@harvard.edu",6956.5,6,1
+89,"Hinda","Parnaby","Wichita","hparnaby2g@thetimes.co.uk",13416,2,2
+92,"Neile","Jantzen","Phoenix","njantzen2j@buzzfeed.com",9739,1,2
+93,"Nicol","Taig","Tulsa","ntaig2k@google.ru",13808,3,1
+95,"Agata","Muzzullo","Cincinnati","amuzzullo2m@about.com",22457,1,3
+96,"Adam","Jones","Missoula","kharborow2n@dagondesign.com",12818,1,2
+98,"Francine","Pollak","North Hollywood","fpollak2p@wp.com",14746,4,1
+99,"Candi","Scrimshire","Seattle","cscrimshire2q@nsw.gov.au",3046,1,2
+100,"Onofredo","Hazeldine","Lexington","ohazeldine2r@marketwatch.com",23778,1,3
+102,"Brett","Beig","Madison","bbeig2t@wordpress.com",10230,1,2
+105,"Addy","Pedican","Washington","apedican2w@home.pl",10003,1,2
+106,"Rickie","Ransley","Houston","rransley2x@mapquest.com",7860,1,2
+108,"Prudy","Wille","Atlanta","pwille2z@fc2.com",16045.6666666667,3,1
+109,"Boycie","Loche","Shawnee Mission","bloche30@dailymail.co.uk",8879,1,2
+113,"Carlin","Sentance","Reston","csentance34@quantcast.com",9619.6,5,1
+114,"Kelsy","Prue","Louisville","kprue35@businessweek.com",1584,1,2
+116,"Emmett","Stripp","Boston","estripp37@wikispaces.com",18081.6,5,1
+119,"Suzi","Sherrington","Houston","ssherrington3a@ihg.com",19946,3,1
+120,"Suzanna","Stourton","Madison","sstourton3b@godaddy.com",15285,3,1
+121,"Aeriel","Eschalotte","Birmingham","aeschalotte3c@amazon.co.jp",15783.5,4,1
+124,"Lotti","Blanket","Columbus","lblanket3f@discovery.com",14288.6666666667,3,1
+125,"Obediah","Farnill","Prescott","ofarnill3g@zdnet.com",14380,5,1
+126,"Lebbie","Piwall","Durham","lpiwall3h@pen.io",13001.5,2,2
+127,"Padgett","Layzell","Greenville","playzell3i@pcworld.com",22664,1,3
+129,"Kerby","Gartland","Washington","kgartland3k@si.edu",16802,1,3
+130,"Bettine","Heisham","New York City","bheisham3l@fc2.com",7594,1,2
+131,"Norah","Scholey","Tucson","nscholey3m@nasa.gov",12347.6666666667,3,1
+132,"Brietta","Roulston","Littleton","broulston3n@dropbox.com",10925,2,2
+133,"Ronnie","Harlock","Huntsville","rharlock3o@reference.com",11836,2,2
+134,"Coretta","Loughran","Louisville","cloughran3p@wp.com",11821,3,1
+136,"Nikolas","Muslim","Greenville","nmuslim3r@webmd.com",12634.5,2,2
+138,"Lodovico","Scrannage","Petaluma","lscrannage3t@adobe.com",15518.25,4,1
+141,"Rhonda","LeEstut","Syracuse","rleestut3w@sciencedirect.com",16585.75,4,1
+142,"Sid","Lumsdaine","Glendale","slumsdaine3x@reuters.com",16666.5,4,1
+143,"Tessy","Sapsford","New York City","tsapsford3y@nyu.edu",8574.5,4,1
+145,"Brice","Lowings","Chicago","blowings40@hatena.ne.jp",9596.5,2,2
+146,"Betsey","Balaisot","Fort Lauderdale","bbalaisot41@wikimedia.org",7310.25,4,1
+148,"Ranice","Kinze","Des Moines","rkinze43@ask.com",8012.5,4,1
+149,"Lorrayne","Chelley","Torrance","lchelley44@friendfeed.com",14408,2,2
+150,"Clary","Alps","Palatine","calps45@nba.com",17009,1,3
+151,"Antonius","Gay","Houston","agay46@comsenz.com",9522,1,2
+152,"Lynde","Denidge","Indianapolis","ldenidge47@liveinternet.ru",2439,1,2
+154,"Dora","Grimsey","Des Moines","dgrimsey49@google.com",6626,1,2
+155,"Allsun","Grinikhin","Topeka","agrinikhin4a@ustream.tv",13076,1,2
+157,"Ettore","Beccero","Houston","ebeccero4c@shareasale.com",4563,1,2
+158,"Rosetta","Jecks","Johnson City","rjecks4d@engadget.com",10440,1,2
+162,"Abdel","Woodstock","Whittier","awoodstock4h@t.co",13630,2,2
+164,"Yorker","Ewence","Dallas","yewence4j@google.nl",21067,1,3
+166,"West","Rojas","Johnson City","wrojas4l@xing.com",14247.6,5,1
+167,"Zelda","Schultheiss","Battle Creek","zschultheiss4m@hibu.com",14950.5,2,3
+168,"Jim","Wayland","Gadsden","jwayland4n@ox.ac.uk",21161,1,3
+171,"Meade","Etchell","Wichita","metchell4q@typepad.com",2387,1,2
+172,"Den","Crocombe","North Port","dcrocombe4r@twitter.com",15633,2,3
+173,"Bryant","Brand","Tampa","bbrand4s@deliciousdays.com",14902.3333333333,3,1
+174,"Jeremiah","Duffy","Cleveland","jduffy4t@google.ca",7890.66666666667,3,1
+177,"Adda","Cresser","Denver","acresser4w@ibm.com",19917.6666666667,3,1
+179,"Remy","Nann","Nashville","rnann4y@sohu.com",6935,1,2
+180,"Lilllie","Dibdale","Shawnee Mission","ldibdale4z@tripod.com",23611,1,3
+181,"Nomi","Matfin","Panama City","nmatfin50@stumbleupon.com",15952,1,3
+182,"Maury","Turvey","Cedar Rapids","mturvey51@exblog.jp",13457,2,2
+183,"Hyacinthe","Cope","Fort Lauderdale","hcope52@e-recht24.de",21927,2,3
+185,"Biron","Burkitt","Saint Louis","bburkitt54@prweb.com",7434,1,2
+186,"Chandra","Fox","Rochester","cfox55@japanpost.jp",22509,1,3
+187,"Robinia","Losebie","Pasadena","rlosebie56@domainmarket.com",18523,1,3
+188,"Giraud","Hallsworth","Lexington","ghallsworth57@newyorker.com",7543.75,4,1
+189,"Shelley","Sivorn","Louisville","ssivorn58@buzzfeed.com",19691,2,3
+191,"Lanny","Chritchlow","Clearwater","lchritchlow5a@gizmodo.com",12224,1,2
+193,"Sigfried","Perryn","Providence","sperryn5c@free.fr",22021,3,1
+194,"Candi","Muschette","Lafayette","cmuschette5d@dmoz.org",15485.5,2,3
+197,"Gaylene","Larose","Fresno","glarose5g@moonfruit.com",6804.5,2,2
+199,"Felipa","O'Cahey","Monticello","focahey5i@merriam-webster.com",17481.5,2,3
+200,"Bettina","Kail","Las Vegas","bkail5j@indiatimes.com",4326.5,2,2
+201,"Frannie","Nowaczyk","Huntington","fnowaczyk5k@dmoz.org",12343.4,5,1
+202,"Tuckie","Hortop","Rochester","thortop5l@alexa.com",18053.6666666667,3,1
+205,"Towny","Keppie","Katy","tkeppie5o@comsenz.com",18350.5,2,3
+206,"Aprilette","Coffelt","Anchorage","acoffelt5p@latimes.com",6487,1,2
+212,"Elyse","Seekings","Anchorage","eseekings5v@census.gov",10703.6666666667,3,1
+217,"Lorain","Greatex","Evansville","lgreatex60@ask.com",19938,1,3
+218,"Alleen","Bazell","Clearwater","abazell61@aboutads.info",17282,1,3
+219,"Stella","Stert","Bridgeport","sstert62@princeton.edu",1457,1,2
+220,"Beltran","Daouse","Honolulu","bdaouse63@samsung.com",13699,1,2
+222,"Graig","Beeden","Cleveland","gbeeden65@slate.com",24372,1,3
+225,"Sheeree","Vinau","Beaufort","svinau68@cmu.edu",21001,1,3
+227,"Ruthe","Monelle","Mesa","rmonelle6a@51.la",9576.33333333333,3,1
+229,"Otes","Brayn","Athens","obrayn6c@google.fr",14404.75,4,1
+230,"Blaine","Giraudeau","Birmingham","bgiraudeau6d@woothemes.com",7637.66666666667,3,1
+231,"Charley","Pashe","Brooklyn","cpashe6e@delicious.com",14871.6666666667,3,1
+232,"Rutger","Ford","Austin","rford6f@quantcast.com",11777.5,4,1
+233,"Erna","Stode","Pittsburgh","estode6g@va.gov",14538,2,2
+237,"Karon","Valerio","Pensacola","kvalerio6k@unicef.org",13652.6666666667,6,1
+238,"Bent","Bonus","Phoenix","bbonus6l@smh.com.au",12430,2,2
+242,"Cody","Havoc","Pittsburgh","chavoc6p@istockphoto.com",24730,1,3
+243,"Obediah","Stollenhof","Phoenix","ostollenhof6q@skyrock.com",12100,1,2
+244,"Fairleigh","Maxwell","Honolulu","fmaxwell6r@netscape.com",16018.75,4,1
+247,"Renelle","Kareman","Cheyenne","rkareman6u@blogger.com",14816.8,5,1
+248,"Sanson","Gartan","Wilmington","sgartan6v@woothemes.com",16574,1,3
+249,"Nigel","Buyers","Las Cruces","nbuyers6w@oracle.com",10819.5,2,2
+250,"Kahlil","Mitcheson","Anaheim","kmitcheson6x@bravesites.com",18096.5,2,3
+251,"Dalli","Cremin","Albuquerque","dcremin6y@icq.com",13578.75,4,1
+254,"Paola","Walklett","Baltimore","pwalklett71@etsy.com",17590.6666666667,3,1
+255,"Lanny","Wehnerr","Baltimore","lwehnerr72@vinaora.com",11689.5,2,2
+256,"Whitaker","Jeannet","Berkeley","wjeannet73@blogspot.com",17945,1,3
+258,"Aldrich","Meron","Washington","ameron75@webeden.co.uk",8985,1,2
+259,"Maison","Zoppo","Newport News","mzoppo76@telegraph.co.uk",12599.6666666667,3,1
+261,"Allie","Warwicker","Lincoln","awarwicker78@dell.com",8661.33333333333,3,1
+263,"Julian","Croxton","Daytona Beach","jcroxton7a@un.org",11856,4,1
+264,"Luella","Sailer","Boston","lsailer7b@nbcnews.com",11367.3333333333,6,1
+265,"Kristofor","Perrie","Phoenix","kperrie7c@jiathis.com",6797.5,2,2
+268,"Earle","Luisetti","Santa Barbara","eluisetti7f@imgur.com",18696.3333333333,3,1
+270,"Tatum","Pirkis","Kansas City","tpirkis7h@flickr.com",12727.4,5,1
+272,"Fayre","Furmage","Silver Spring","ffurmage7j@unc.edu",12688,2,2
+273,"Devinne","Currom","Tucson","dcurrom7k@booking.com",13713,1,2
+275,"Kass","Olyonov","Daytona Beach","kolyonov7m@addtoany.com",9371,1,2
+276,"Leodora","Robinet","Littleton","lrobinet7n@nsw.gov.au",7728.33333333333,3,1
+277,"Brinna","Petri","Oakland","bpetri7o@globo.com",19432,1,3
+279,"Kippie","Wapplington","Washington","kwapplington7q@webmd.com",18141,1,3
+282,"Joshia","Yarker","Cincinnati","jyarker7t@cdbaby.com",13077.6666666667,3,1
+283,"Odille","Suggate","Tucson","osuggate7u@state.tx.us",8845,1,2
+284,"Rianon","Beretta","Tulsa","rberetta7v@wikispaces.com",17430,3,1
+288,"Angelita","Farres","El Paso","afarres7z@wordpress.org",11917.6666666667,3,1
+289,"Nichol","Flemming","Washington","nflemming80@bloomberg.com",11968,2,2
+290,"Helenelizabeth","Champley","East Saint Louis","hchampley81@squarespace.com",8748.5,4,1
+292,"Goldarina","Covotto","Mobile","gcovotto83@sphinn.com",12210,2,2
+294,"Shaine","Shelton","San Diego","sshelton85@hc360.com",7901.66666666667,3,1
+297,"Nolana","Congram","Lakeland","ncongram88@bandcamp.com",12075,1,2
+298,"Madelena","Dimberline","Nashville","mdimberline89@cafepress.com",12851,1,2
+299,"Natalie","Hablot","Grand Rapids","nhablot8a@intel.com",9699,1,2
+301,"Marybelle","Falco","Boulder","mfalco8c@mashable.com",10666.75,4,1
+303,"Chancey","Vegas","Las Vegas","cvegas8e@drupal.org",17593,2,3
+305,"Abbi","Inmett","San Francisco","ainmett8g@ebay.com",1903,1,2
+307,"Kennith","Winsborrow","Oklahoma City","kwinsborrow8i@wunderground.com",10395.5,2,2
+308,"Carine","Guwer","Valdosta","cguwer8j@youtube.com",18773,2,3
+311,"Glenine","Favel","Tyler","gfavel8m@tamu.edu",11373.75,4,1
+312,"Worth","Yateman","Corpus Christi","wyateman8n@freewebs.com",18795,1,3
+314,"Anestassia","Weadick","San Francisco","aweadick8p@multiply.com",15122,1,3
+323,"Marlowe","Pressdee","Frankfort","mpressdee8y@wikimedia.org",15956.6666666667,3,1
+325,"Kendell","Garnsworthy","Columbus","kgarnsworthy90@businessinsider.com",14442.5,2,2
+328,"Goldy","Blower","Detroit","gblower93@howstuffworks.com",12936.5,2,2
+331,"Washington","Halksworth","San Diego","whalksworth96@technorati.com",12364.8,5,1
+332,"Bernetta","Mylan","Aurora","bmylan97@cpanel.net",9858.66666666667,6,1
+336,"Feliza","Kinnerk","New York City","fkinnerk9b@infoseek.co.jp",10057,3,1
+339,"Emelita","Raitt","Charlottesville","eraitt9e@de.vu",8516.6,5,1
+340,"Barret","Perrycost","White Plains","bperrycost9f@mediafire.com",10533,4,1
+341,"Malchy","Copestake","Lexington","mcopestake9g@gizmodo.com",7572.66666666667,3,1
+342,"Biron","Apfler","Portland","bapfler9h@si.edu",12234.6666666667,3,1
+344,"Ella","Greensall","Tulsa","egreensall9j@symantec.com",6011.25,4,1
+347,"Georgie","Parish","Brooklyn","gparish9m@linkedin.com",7848,1,2
+349,"Pernell","Bartelli","Baltimore","pbartelli9o@smh.com.au",13807,2,2
+350,"Maxy","Jacketts","Terre Haute","mjacketts9p@usnews.com",18545,1,3
+351,"Carmella","Waterfall","Waterbury","cwaterfall9q@ft.com",17248,1,3
+352,"Rodrigo","Doale","El Paso","rdoale9r@scientificamerican.com",22929,1,3
+354,"Melinde","Welldrake","Dallas","mwelldrake9t@redcross.org",10521,2,2
+355,"Stanislaus","Schaffler","Dallas","sschaffler9u@ca.gov",9581.5,4,1
+358,"Lon","Hars","Sarasota","lhars9x@eventbrite.com",12221.625,8,1
+360,"Salem","Bruniges","Philadelphia","sbruniges9z@blogspot.com",17077.5,2,3
+363,"Jerrie","Sorbey","Tulsa","jsorbeya2@toplist.cz",22195.5,2,3
+365,"Katti","Bemand","Austin","kbemanda4@ibm.com",10483.6666666667,3,1
+366,"Yetta","Riccardi","San Diego","yriccardia5@oakley.com",9020.66666666667,3,1
+369,"Melisande","Bramford","Paterson","mbramforda8@angelfire.com",13579,2,2
+371,"Merry","Windibank","Atlanta","mwindibankaa@wired.com",23957,1,3
+372,"Moss","Wagner","Punta Gorda","mwagnerab@ycombinator.com",20234,2,3
+373,"Gamaliel","Hallgarth","Saint Paul","ghallgarthac@discuz.net",13795,2,2
+375,"Pearce","Bearns","Corpus Christi","pbearnsae@dell.com",19126,3,1
+377,"Erek","Rosenvasser","Waltham","erosenvasserag@sourceforge.net",15604.6666666667,3,1
+378,"Ulises","Bleything","Fort Pierce","ubleythingah@sun.com",24426,1,3
+380,"Dorothee","Caine","Salt Lake City","dcaineaj@github.io",13156.3333333333,3,1
+381,"Lilli","Crook","Springfield","lcrookak@com.com",20717,1,3
+382,"Ariel","Akrigg","Newton","aakriggal@gmpg.org",11652.3333333333,3,1
+383,"Tadio","Jansens","Columbus","tjansensam@php.net",9132.5,2,2
+384,"Aaron","Blaker","Phoenix","ablakeran@bloglovin.com",19794.5,2,3
+386,"Jonie","Finlan","Portland","jfinlanap@washingtonpost.com",9322.5,4,1
+387,"Ashly","Matteucci","Minneapolis","amatteucciaq@blogtalkradio.com",20562.5,2,3
+389,"Madalena","Fawke","Greeley","mfawkeas@storify.com",14740.75,4,1
+390,"Dorice","McIlwraith","Clearwater","dmcilwraithat@vinaora.com",5390,1,2
+392,"Ronnie","Reichelt","Cincinnati","rreicheltav@archive.org",8901,2,2
+393,"Shannen","Callar","Albuquerque","scallaraw@huffingtonpost.com",12261,2,2
+394,"Sal","Renneke","Midland","srennekeax@answers.com",11020,2,2
+396,"Ignazio","McFarlan","Greenville","imcfarlanaz@topsy.com",18463.25,4,1
+397,"Giulio","Byneth","Austin","gbynethb0@slate.com",10497,3,1
+398,"Lucine","Kirrage","Boise","lkirrageb1@guardian.co.uk",6141,1,2
+400,"Alameda","Gater","Spartanburg","agaterb3@yellowpages.com",17409.6666666667,3,1
+402,"Shell","Turbitt","Norfolk","sturbittb5@nps.gov",13272.25,4,1
+405,"Frank","Carbert","Detroit","fcarbertb8@miibeian.gov.cn",15146,2,3
+406,"Sheilah","MacCracken","Sacramento","smaccrackenb9@hugedomains.com",16260,1,3
+409,"Sophey","Maciunas","Worcester","smaciunasbc@diigo.com",6612,2,2
+410,"Jae","Lawdham","Lake Charles","jlawdhambd@cnet.com",12332.5,4,1
+412,"Prince","Pavek","Louisville","ppavekbf@jiathis.com",13430.3333333333,3,1
+413,"Ingar","Whittle","Portland","iwhittlebg@pinterest.com",17121,1,3
+416,"Tann","Shearwood","Chicago","tshearwoodbj@soup.io",15719.6666666667,3,1
+419,"Teddy","Reichelt","Salt Lake City","treicheltbm@twitter.com",15966,2,3
+422,"Christel","Russen","Austin","crussenbp@lycos.com",7409,1,2
+423,"Dionysus","Capp","Rochester","dcappbq@wikipedia.org",11346.3333333333,3,1
+424,"Debby","Barter","Saint Louis","dbarterbr@goo.ne.jp",19127.5,2,3
+425,"Lilyan","Sillwood","Herndon","lsillwoodbs@loc.gov",21487,1,3
+427,"Padriac","Tune","Sacramento","ptunebu@ustream.tv",23379,1,3
+429,"Kenon","Cartmael","Anderson","kcartmaelbw@admin.ch",15448,1,3
+430,"Evita","Maulin","Orlando","emaulinbx@wordpress.org",12500.5,4,1
+431,"Ettore","Barhem","Las Vegas","ebarhemby@cam.ac.uk",3853,1,2
+434,"Danya","Bridge","Minneapolis","dbridgec1@moonfruit.com",15834.1666666667,6,1
+435,"Missy","Rawlings","Springfield","mrawlingsc2@goo.ne.jp",13445,2,2
+436,"Melantha","Martellini","Corpus Christi","mmartellinic3@answers.com",21632,1,3
+438,"Jenny","Giovani","Austin","jgiovanic5@facebook.com",7432,1,2
+439,"Maribelle","McCosker","Saint Louis","mmccoskerc6@businessinsider.com",12211,2,2
+440,"Brianne","Fulks","Amarillo","bfulksc7@nhs.uk",14271,2,2
+441,"Gale","Origan","Tampa","goriganc8@topsy.com",1789,2,2
+443,"Sadye","Minghetti","North Little Rock","sminghettica@diigo.com",10057.3333333333,3,1
+444,"Vivyanne","Deveral","Aurora","vdeveralcb@free.fr",12604.5,4,1
+446,"Ravi","Bindin","Bronx","rbindincd@ft.com",14233.5,2,2
+448,"Melisent","Kolakovic","Van Nuys","mkolakoviccf@webeden.co.uk",17985.5,2,3
+451,"Ebony","Swainston","Aurora","eswainstonci@live.com",10207,1,2
+452,"Eb","Tuckey","Brooklyn","etuckeycj@shop-pro.jp",22224,1,3
+453,"Milli","Pyson","Dallas","mpysonck@tmall.com",17149.3333333333,3,1
+457,"Jeana","Lakeland","Cedar Rapids","jlakelandco@domainmarket.com",15305.6,5,1
+458,"Loretta","Niven","Dallas","lnivencp@fastcompany.com",2805.75,4,1
+459,"Ashia","McGillreich","Richmond","amcgillreichcq@usa.gov",18392,3,1
+460,"Pierette","Lembcke","Chandler","plembckecr@shutterfly.com",11213.5,4,1
+463,"Bernard","Plumer","Vancouver","bplumercu@google.com.hk",1115,1,2
+465,"Roselin","Cowdrey","Birmingham","rcowdreycw@goo.gl",22986,1,3
+466,"Elmira","Swannick","Dearborn","eswannickcx@reddit.com",13936.4,5,1
+467,"Lexy","Bendle","Macon","lbendlecy@wufoo.com",10616.3333333333,3,1
+469,"Courtnay","Strickett","Philadelphia","cstrickettd0@cdbaby.com",3663,2,2
+470,"Ruy","Awdry","Saint Louis","rawdryd1@mtv.com",1990,1,2
+471,"Lexine","Maginot","Houston","lmaginotd2@surveymonkey.com",7670.5,2,2
+473,"Dorian","Haycock","Albuquerque","dhaycockd4@mit.edu",20813.75,4,1
+475,"Elwood","Pyke","Palatine","epyked6@hostgator.com",15101,2,3
+476,"Holden","Putt","Philadelphia","hputtd7@list-manage.com",11447.5,2,2
+478,"Heinrik","Stopforth","El Paso","hstopforthd9@woothemes.com",22113,1,3
+482,"Gearard","Croson","Richmond","gcrosondd@yellowbook.com",2271,1,2
+483,"Foss","Blaydon","Hayward","fblaydonde@tumblr.com",8442,5,1
+484,"Jeffy","Ivankovic","Phoenix","jivankovicdf@lycos.com",7118,1,2
+485,"Bernardo","Herley","Ocala","bherleydg@earthlink.net",13040.5,6,1
+489,"Winfred","Manilo","Fairbanks","wmanilodk@ca.gov",12635,2,2
+491,"Gauthier","Gothrup","Erie","ggothrupdm@google.co.uk",11201,3,1
+492,"Tull","Hardway","Baton Rouge","thardwaydn@smugmug.com",3659,1,2
+496,"Elisabeth","Godson","Anderson","egodsondr@topsy.com",13270.75,4,1
+497,"Esra","Anfonsi","Orlando","eanfonsids@nsw.gov.au",7750.5,2,2
+500,"Roddie","Knee","Memphis","rkneedv@behance.net",9480.75,4,1
+501,"Bat","Basilone","Jacksonville","bbasilonedw@princeton.edu",10072.3333333333,3,1
+502,"Brion","Bortolozzi","Milwaukee","bbortolozzidx@goodreads.com",11338,4,1
+504,"Rad","Royle","Portsmouth","rroyledz@github.io",18810,1,3
+509,"Linoel","Gaish","Providence","lgaishe4@instagram.com",15352.5,4,1
+513,"Lurline","Cookney","Saint Louis","lcookneye8@photobucket.com",9513.5,2,2
+514,"Constantina","Stappard","Washington","cstapparde9@go.com",16554,1,3
+515,"Franklyn","Hatherley","Beaufort","fhatherleyea@gmpg.org",22931,1,3
+516,"Calv","Tuxsell","Syracuse","ctuxselleb@odnoklassniki.ru",14907.6666666667,3,1
+519,"Udale","Entwisle","Arlington","uentwisleee@bizjournals.com",14001.3333333333,3,1
+522,"Cesaro","Sifflett","Houston","csiffletteh@youtube.com",12465,2,2
+523,"Rodrigo","Warlaw","Chicago","rwarlawei@indiatimes.com",21874,2,3
+525,"Gauthier","Ballchin","Charlotte","gballchinek@de.vu",13199,2,2
+528,"Mike","McGennis","Cincinnati","mmcgennisen@buzzfeed.com",14532.25,4,1
+529,"Malvina","Blow","Canton","mbloweo@photobucket.com",12855,2,2
+531,"Elinore","Willingam","Mesa","ewillingameq@exblog.jp",21550,1,3
+534,"Papagena","Cosgrive","Lynchburg","pcosgriveet@japanpost.jp",12628,2,2
+535,"Ham","Mollitt","El Paso","hmollitteu@eepurl.com",13802,2,2
+536,"Lolly","Estrella","Phoenix","lestrellaev@ft.com",18391,3,1
+539,"Krystle","Challicum","San Bernardino","kchallicumey@utexas.edu",10426.3333333333,6,1
+540,"Zilvia","Mulqueen","Virginia Beach","zmulqueenez@google.com.au",17919.75,4,1
+541,"Vail","Izakovitz","Fort Lauderdale","vizakovitzf0@webeden.co.uk",8654.4,5,1
+542,"Renata","Pardon","San Diego","rpardonf1@booking.com",16622.5,4,1
+543,"Dan","Thomas","Fort Lauderdale","dstrangmanf2@rambler.ru",11868,4,1
+544,"Milty","Bonas","Roanoke","mbonasf3@printfriendly.com",17957.6666666667,3,1
+545,"Dyanna","Estrella","Santa Barbara","destrellaf4@msu.edu",21531,1,3
+546,"Merlina","Edelston","Portsmouth","medelstonf5@webnode.com",11881,1,2
+547,"Marlyn","Angrove","Saint Paul","mangrovef6@php.net",10383,3,1
+548,"Ollie","Weyland","San Antonio","oweylandf7@ebay.co.uk",17646.75,4,1
+549,"Grange","Siman","Hartford","gsimanf8@census.gov",20043,2,3
+552,"Zane","Barrett","Bethesda","zbarrettfb@businessweek.com",1300,2,2
+556,"Somerset","Millett","Baltimore","smillettff@cornell.edu",2793,1,2
+557,"Heath","Satterley","Ann Arbor","hsatterleyfg@dagondesign.com",14072,1,2
+559,"Corabelle","Fishley","Albany","cfishleyfi@netvibes.com",12746,3,1
+562,"Deborah","Braganca","Oakland","dbragancafl@digg.com",9763.5,2,2
+563,"Linn","Vagg","San Jose","lvaggfm@cdbaby.com",12327.5,2,2
+564,"Juline","Feathersby","Philadelphia","jfeathersbyfn@elpais.com",6833.66666666667,3,1
+565,"Hester","Scruton","El Paso","hscrutonfo@tumblr.com",15646,2,3
+566,"Adelice","Pluck","Austin","apluckfp@cargocollective.com",10851.75,4,1
+567,"Conchita","Driffill","El Paso","cdriffillfq@bbc.co.uk",17971.5,2,3
+568,"Tobin","Boykett","Bronx","tboykettfr@friendfeed.com",14691.5,2,2
+569,"Cosimo","Endon","Greensboro","cendonfs@miibeian.gov.cn",11565,2,2
+572,"Cal","Cullon","Roanoke","ccullonfv@goo.ne.jp",4009.5,2,2
+573,"Holli","Rainsbury","Atlanta","hrainsburyfw@github.io",4180.5,2,2
+575,"Cortney","Brane","Saint Paul","cbranefy@foxnews.com",11637.5,2,2
+578,"Barnett","Main","Englewood","bmaing1@wufoo.com",7720.5,2,2
+579,"Valdemar","Shory","Valdosta","vshoryg2@shutterfly.com",21817,1,3
+580,"Yurik","By","Gulfport","ybyg3@paypal.com",11128.6666666667,6,1
+581,"Way","Poyner","Houston","wpoynerg4@nps.gov",19642,3,1
+583,"Lawry","Lusher","Milwaukee","llusherg6@unc.edu",19317.5,2,3
+586,"Theresina","Hek","Los Angeles","thekg9@altervista.org",8389.5,2,2
+588,"Edsel","McIlwrick","Phoenix","emcilwrickgb@youtube.com",11952,3,1
+590,"Geri","Farrell","Terre Haute","gfarrellgd@123-reg.co.uk",12884.8,5,1
+591,"Langston","Belchamber","Seattle","lbelchamberge@statcounter.com",19816,2,3
+594,"Roddy","Bazell","Rochester","rbazellgh@huffingtonpost.com",15342.3333333333,3,1
+595,"Justina","Kinglake","Cincinnati","jkinglakegi@tinypic.com",5828,1,2
+596,"Prentice","Upex","Toledo","pupexgj@nsw.gov.au",6166,2,2
+597,"Gian","Aberdein","Pompano Beach","gaberdeingk@fc2.com",12811.5,4,1
+598,"Burnard","Gaskoin","Charlottesville","bgaskoingl@discuz.net",20350.5,2,3
+599,"Magnum","Armstrong","Portsmouth","marmstronggm@soup.io",13468,2,2
+601,"Kate","Hudson","Mesa","npowlinggo@1und1.de",22459,1,3
+602,"Bond","Hurich","New York City","bhurichgp@1und1.de",15419,5,1
+604,"Travers","McVittie","Dallas","tmcvittiegr@fema.gov",9756.6,5,1
+605,"Emilie","Smallacombe","Corona","esmallacombegs@fda.gov",15932,2,3
+606,"Bertrand","Turbefield","Omaha","bturbefieldgt@deliciousdays.com",17717.75,4,1
+607,"Kippy","Brignell","Edmond","kbrignellgu@ebay.co.uk",3180,2,2
+608,"Karim","Attrey","Sacramento","kattreygv@wikipedia.org",10692.5,2,2
+611,"Ameline","Kaliszewski","Dulles","akaliszewskigy@gravatar.com",23700,1,3
+612,"Florentia","Weddup","Rochester","fweddupgz@1688.com",10797.4,5,1
+613,"Zedekiah","Boothebie","Indianapolis","zboothebieh0@addthis.com",9990,2,2
+614,"Eugenio","Life","Norfolk","elifeh1@patch.com",16394,3,1
+615,"Tiffani","Rudkin","Hyattsville","trudkinh2@lycos.com",14436,3,1
+617,"Donella","Caulfield","Portsmouth","dcaulfieldh4@gov.uk",5833.33333333333,3,1
+618,"Cos","Florio","Portland","cflorioh5@51.la",7560,2,2
+620,"Marylinda","Inchley","Washington","minchleyh7@yahoo.com",9936.66666666667,3,1
+621,"Carlynne","Yvens","Atlanta","cyvensh8@google.co.jp",14264,2,2
+623,"Hank","Thake","Washington","hthakeha@ow.ly",2142,1,2
+624,"Edi","Genever","Fairbanks","egeneverhb@pagesperso-orange.fr",10910,1,2
+625,"Windham","Bollom","Brockton","wbollomhc@nyu.edu",13335.6666666667,3,1
+626,"Mike","Kenderdine","San Diego","mkenderdinehd@skyrock.com",17252.6666666667,3,1
+628,"Charin","Barraclough","Saint Paul","cbarracloughhf@tamu.edu",9939,4,1
+629,"Malcolm","Palmar","Santa Ana","mpalmarhg@sohu.com",9661.5,2,2
+630,"Sherilyn","MacAlpin","Richmond","smacalpinhh@nytimes.com",15452.5,2,3
+631,"Max","Tire","Jackson","mtirehi@upenn.edu",2619,1,2
+632,"Marillin","Roumier","Albany","mroumierhj@about.me",10697.5,2,2
+633,"Moyra","Wasteney","Columbus","mwasteneyhk@unesco.org",19568,4,1
+634,"Ignace","Chugg","Des Moines","ichugghl@blogs.com",3494,3,1
+636,"Remy","Cossey","Saint Louis","rcosseyhn@ehow.com",12033,3,1
+637,"Yoshiko","Brunskill","Waterbury","ybrunskillho@ycombinator.com",2731,1,2
+638,"Ike","Epton","Berkeley","ieptonhp@homestead.com",10582,2,2
+641,"Fulton","Scawton","Fort Lauderdale","fscawtonhs@list-manage.com",9636.66666666667,3,1
+642,"Rodge","Haggata","Tuscaloosa","rhaggataht@hao123.com",16668.3333333333,3,1
+644,"Gilbertina","Blazey","Tampa","gblazeyhv@ehow.com",18188.75,4,1
+646,"Shawna","Capper","Spokane","scapperhx@webs.com",14706,1,2
+647,"Isacco","Greer","Dallas","igreerhy@mysql.com",12640.75,4,1
+648,"Whittaker","Birkett","Santa Barbara","wbirketthz@google.de",13236,3,1
+649,"Ewan","Triner","College Station","etrineri0@goo.gl",5748,1,2
+650,"Kassia","Dunsford","Virginia Beach","kdunsfordi1@csmonitor.com",13176,3,1
+651,"Mick","Churchyard","Roanoke","mchurchyardi2@bloglovin.com",13633.5,2,2
+654,"Dunc","Nattriss","Gainesville","dnattrissi5@reuters.com",23432,1,3
+655,"Jannel","Mathevon","Monticello","jmathevoni6@walmart.com",10258.75,4,1
+656,"Jed","Bage","Philadelphia","jbagei7@umich.edu",11106,4,1
+658,"Callie","Zoellner","Indianapolis","czoellneri9@ovh.net",7047,1,2
+659,"Bronson","Pirot","New York City","bpirotia@cnn.com",13913.5,2,2
+660,"Quinta","Titta","Orlando","qtittaib@bizjournals.com",12648,1,2
+662,"Holden","Verrechia","Orange","hverrechiaid@163.com",11410.5,2,2
+665,"Gaultiero","Royle","Schaumburg","groyleig@yelp.com",18768,3,1
+669,"Fiorenze","Borzoni","Lincoln","fborzoniik@studiopress.com",11886.5,2,2
+671,"Ax","Vine","Tyler","avineim@slate.com",21350,1,3
+672,"Ram","Holson","Las Vegas","rholsonin@php.net",13545,1,2
+673,"Hamid","Bluschke","Charlotte","hbluschkeio@exblog.jp",5984.5,2,2
+675,"Zerk","MacMickan","Columbus","zmacmickaniq@spotify.com",6074,1,2
+676,"Alfonso","Antoons","Philadelphia","aantoonsir@studiopress.com",8149.5,2,2
+677,"Timoteo","Cadogan","Charlotte","tcadoganis@exblog.jp",6262,1,2
+680,"Julia","Eastmead","Oakland","jeastmeadiv@so-net.ne.jp",19969.5,4,1
+683,"Louis","Anning","San Diego","lanningiy@yahoo.com",9374,3,1
+684,"Stephan","MacGilrewy","Miami","smacgilrewyiz@barnesandnoble.com",8966.5,2,2
+685,"Hubert","Uren","Chicago","hurenj0@lulu.com",11332,1,2
+686,"Simonette","Burnep","Fullerton","sburnepj1@bluehost.com",23359,1,3
+687,"Herculie","Lugton","Woburn","hlugtonj2@g.co",3910,1,2
+689,"Donaugh","Holtham","Youngstown","dholthamj4@godaddy.com",4582,1,2
+690,"Kahaleel","Lathleiffure","New York City","klathleiffurej5@ebay.com",12788,1,2
+691,"Tabbie","Stedmond","Knoxville","tstedmondj6@indiegogo.com",8918,1,2
+692,"Tymon","Fenlon","Dallas","tfenlonj7@alibaba.com",13205.75,4,1
+693,"Leola","Escalante","Mesa","lescalantej8@cyberchimps.com",7227.5,2,2
+694,"Janet","Loughrey","Phoenix","jloughreyj9@goo.gl",15682.5,4,1
+695,"Louisa","Danes","Philadelphia","ldanesja@ucsd.edu",7753,1,2
+697,"Kelsi","Elsey","Norman","kelseyjc@booking.com",9259,2,2
+698,"Glennis","Ramel","Inglewood","grameljd@skyrock.com",12464.5,2,2
+699,"Darby","Pina","Lafayette","dpinaje@drupal.org",22052,3,1
+700,"Arda","Beecheno","Bradenton","abeechenojf@state.gov",15144,3,1
+703,"Em","Coneau","Toledo","econeauji@jimdo.com",11711.5,2,2
+704,"Lucais","Bool","Houston","lbooljj@google.ru",11931,3,1
+707,"Harlene","Cullrford","Charlotte","hcullrfordjm@marriott.com",10861.6666666667,3,1
+708,"Elberta","Bosomworth","Des Moines","ebosomworthjn@skyrock.com",20070,1,3
+710,"Arni","Gorrick","Harrisburg","agorrickjp@imageshack.us",18547,1,3
+712,"Donavon","Hadlow","Seattle","dhadlowjr@wiley.com",6746,1,2
+713,"Trista","Pheasant","Rochester","tpheasantjs@gov.uk",11362.6666666667,3,1
+714,"Patrizius","Briereton","Waltham","pbrieretonjt@shop-pro.jp",16185.75,4,1
+715,"Arnoldo","Antecki","Richmond","aanteckiju@alexa.com",14527.3333333333,3,1
+716,"Roderich","Kopman","Dayton","rkopmanjv@huffingtonpost.com",23374,1,3
+717,"Tarra","Wilkinson","Minneapolis","twilkinsonjw@wordpress.com",14433.5,4,1
+719,"Rhetta","Grills","Memphis","rgrillsjy@newyorker.com",9547.5,4,1
+720,"Rodrigo","Dunmuir","Pittsburgh","rdunmuirjz@ftc.gov",10880.3333333333,3,1
+721,"Wilmer","Rosterne","Cleveland","wrosternek0@google.it",13787.75,4,1
+722,"Tann","Trudgeon","Battle Creek","ttrudgeonk1@theguardian.com",4653,1,2
+724,"Neilla","Gollop","Buffalo","ngollopk3@discuz.net",13241.25,4,1
+725,"Joelle","Olivera","Springfield","joliverak4@geocities.jp",17536.5,4,1
+726,"Cullan","Clack","Orlando","cclackk5@netscape.com",12854.5,2,2
+727,"Natasha","O'Hanlon","Nashville","nohanlonk6@paypal.com",3344,1,2
+728,"Dody","Harry","Mobile","dharryk7@imageshack.us",15091,3,1
+729,"Erl","Biner","Paterson","ebinerk8@toplist.cz",12634.8,5,1
+730,"Elden","Doman","Kansas City","edomank9@nih.gov",15489,2,3
+731,"Isaiah","Menault","Phoenix","imenaultka@cnet.com",11118.8,5,1
+732,"Nance","Megarry","Wichita","nmegarrykb@blinklist.com",19805,1,3
+734,"Reynard","Breache","Long Beach","rbreachekd@umn.edu",9599.5,2,2
+737,"Julius","Soppeth","Trenton","jsoppethkg@gmpg.org",16553.5,2,3
+738,"Fleurette","Rogans","Madison","froganskh@un.org",19047,1,3
+739,"Filip","Boobyer","El Paso","fboobyerki@smugmug.com",13447,2,2
+741,"Bennie","Riddell","Killeen","briddellkk@weibo.com",14498.5,2,2
+744,"Mile","Peris","Washington","mperiskn@howstuffworks.com",13779.5,2,2
+745,"Garrek","Ganter","New York City","gganterko@cbslocal.com",20407,1,3
+746,"Torrance","Sokale","Fort Pierce","tsokalekp@github.com",16111.8571428571,7,1
+747,"Tonnie","Durward","Dayton","tdurwardkq@usnews.com",7455,1,2
+748,"Ediva","Springtorpe","San Diego","espringtorpekr@state.tx.us",17321.6666666667,3,1
+749,"Cori","Gallacher","Columbus","cgallacherks@bloglines.com",10464.2,5,1
+751,"Wakefield","Dargue","Huntington","wdargueku@toplist.cz",9343,1,2
+753,"Clara","Cuss","Fort Lauderdale","ccusskw@technorati.com",16578,3,1
+755,"Tommy","Blaine","Mobile","tblaineky@artisteer.com",14673,3,1
+756,"Woody","Kerans","Fort Worth","wkeranskz@dedecms.com",19871,2,3
+757,"Derrik","Thorley","Harrisburg","dthorleyl0@cdbaby.com",13894.5,2,2
+759,"Kareem","Pelfer","Sacramento","kpelferl2@yolasite.com",17726,3,1
+761,"Debbie","Lindeberg","Salt Lake City","dlindebergl4@gnu.org",19927,1,3
+763,"Gideon","Davidman","Honolulu","gdavidmanl6@theguardian.com",8606,3,1
+764,"Ivette","Asple","Orange","iasplel7@goodreads.com",1806,1,2
+765,"Albrecht","Fennell","Columbia","afennelll8@sbwire.com",4553,1,2
+766,"Madelaine","Cluff","Pocatello","mcluffl9@tamu.edu",14529,1,2
+767,"Ari","Dur","Nashville","adurla@vkontakte.ru",6158,3,1
+768,"Matteo","Bristo","Oceanside","mbristolb@google.com.br",11549.8,5,1
+769,"Stafford","O'Scollain","Omaha","soscollainlc@google.com.hk",13082.2,5,1
+770,"Jemie","O'dell","Charlotte","jodellld@time.com",10620,2,2
+772,"Lief","Fiske","Detroit","lfiskelf@archive.org",16896,1,3
+773,"Keri","Brinicombe","Lexington","kbrinicombelg@is.gd",13823,2,2
+775,"Isac","Towlson","San Antonio","itowlsonli@edublogs.org",9429,2,2
+776,"Logan","Beauchamp","New York City","lbeauchamplj@smugmug.com",10247,1,2
+779,"Leroy","Flewin","White Plains","lflewinlm@shinystat.com",6035,2,2
+780,"Farris","Mathissen","Roanoke","fmathissenln@gov.uk",6560,2,2
+781,"Correy","Eliyahu","New York City","celiyahulo@tamu.edu",22663,3,1
+783,"Erinna","Senten","Marietta","esentenlq@weather.com",10088,1,2
+784,"Jimmy","McIlhone","Topeka","jmcilhonelr@trellian.com",11220,1,2
+786,"Ysabel","McGannon","Denver","ymcgannonlt@yolasite.com",19746,1,3
+788,"Tonia","Lagneaux","Charlotte","tlagneauxlv@mayoclinic.com",18345,1,3
+789,"Leonid","Rolfo","Washington","lrolfolw@blogs.com",13236.5,2,2
+790,"Trudie","Arlet","Minneapolis","tarletlx@vk.com",20993,2,3
+792,"Antin","Roggero","Des Moines","aroggerolz@indiatimes.com",12095,5,1
+793,"Sherie","Alstead","Palatine","salsteadm0@stumbleupon.com",8165,3,1
+795,"Ursulina","Dewhirst","Metairie","udewhirstm2@g.co",6258,1,2
+796,"Ray","Willment","Trenton","rwillmentm3@squarespace.com",24446,1,3
+797,"Alexio","Rodenburg","Portland","arodenburgm4@ebay.com",14225,5,1
+798,"Roanna","Studholme","Vero Beach","rstudholmem5@forbes.com",2647,1,2
+799,"Lauren","Keyzor","Springfield","lkeyzorm6@vkontakte.ru",17773,2,3
+800,"Mommy","Ruby","Washington","mrubym7@ft.com",10571,2,2
+802,"Sansone","Edinborough","Roanoke","sedinboroughm9@sourceforge.net",9555,2,2
+803,"Brion","Rabson","Buffalo","brabsonma@prlog.org",13173,2,2
+804,"Cody","Bertholin","Mobile","cbertholinmb@soundcloud.com",8658,1,2
+805,"Ken","Sexten","Portland","ksextenmc@furl.net",8903,2,2
+807,"Gerta","Roblou","Stamford","grobloume@exblog.jp",12412,1,2
+809,"Brigit","Kilian","Chicago","bkilianmg@imdb.com",8911,1,2
+810,"Waring","Mallinder","New Orleans","wmallindermh@flavors.me",3399,1,2
+813,"Sebastian","McRannell","Denver","smcrannellmk@chronoengine.com",20800,2,3
+816,"Harriott","Pic","Charlotte","hpicmn@mediafire.com",18769.75,4,1
+817,"Roanna","Bonwell","Reno","rbonwellmo@behance.net",12009.75,4,1
+818,"Hilde","McGarva","Buffalo","hmcgarvamp@webnode.com",7312,1,2
+819,"Fleming","Dalyiel","Las Cruces","fdalyielmq@hud.gov",6144,1,2
+820,"Fritz","Shynn","Birmingham","fshynnmr@etsy.com",12695.6666666667,3,1
+822,"Ellswerth","Lavielle","Inglewood","elaviellemt@youtube.com",5639,1,2
+825,"Cece","Marvel","Jamaica","cmarvelmw@cafepress.com",13107.75,4,1
+826,"Esther","Carryer","Portland","ecarryermx@ca.gov",1282.5,2,2
+827,"Reed","Patria","Santa Barbara","rpatriamy@globo.com",17217,3,1
+828,"Ody","Cisar","Arlington","ocisarmz@globo.com",15838.25,4,1
+829,"Isidoro","Hadcock","Charleston","ihadcockn0@cnbc.com",13811,2,2
+830,"Devinne","Duiged","Dayton","dduigedn1@hubpages.com",15082,4,1
+831,"Asher","Skittles","Tulsa","askittlesn2@msn.com",9269,1,2
+832,"Sam","Devin","New Orleans","sdevinn3@berkeley.edu",15438,1,3
+833,"Kendre","Fearne","Charleston","kfearnen4@indiegogo.com",15269.5,4,1
+834,"Charlene","McNeilly","Charlotte","cmcneillyn5@nasa.gov",3446,1,2
+835,"Rusty","Wright","Washington","rwrightn6@geocities.jp",18557.75,4,1
+836,"Erick","Mellody","Erie","emellodyn7@microsoft.com",11204,3,1
+838,"Martie","Naulty","Atlanta","mnaultyn9@ucla.edu",12773.75,4,1
+841,"Cornela","Caig","Philadelphia","ccaignc@mail.ru",16801,4,1
+842,"Agna","Cowterd","Lubbock","acowterdnd@51.la",24052,1,3
+843,"Margaretta","Armell","Huntington","marmellne@shutterfly.com",19943,2,3
+845,"Byrle","Moran","San Jose","bmoranng@sogou.com",9377,1,2
+846,"Cleavland","Fordham","Milwaukee","cfordhamnh@reddit.com",11568,4,1
+848,"Anatollo","Bruniges","Duluth","abrunigesnj@webmd.com",8834.75,4,1
+849,"Dolly","Indruch","Milwaukee","dindruchnk@free.fr",19671.5,2,3
+850,"Benedict","Van de Velde","Reston","bvannl@csmonitor.com",14138.6666666667,3,1
+851,"Yoko","Phizaclea","Omaha","yphizacleanm@typepad.com",12397,2,2
+852,"Fernande","Dowsett","Nashville","fdowsettnn@imdb.com",14002.4,5,1
+853,"Clementine","Sharpless","Carson City","csharplessno@cpanel.net",22172.5,2,3
+854,"Birch","Petrolli","Gainesville","bpetrollinp@google.com.au",16784.5,2,3
+856,"Marilin","Bondley","Knoxville","mbondleynr@i2i.jp",1667,1,2
+858,"Llywellyn","Loudon","Santa Barbara","lloudonnt@usa.gov",16307.5,2,3
+859,"Dougy","Brunt","Madison","dbruntnu@artisteer.com",12899.75,4,1
+860,"Reyna","Keohane","Boise","rkeohanenv@nymag.com",10229.6666666667,3,1
+862,"Kevin","Richards","Waco","rkilcullennx@topsy.com",24797,1,3
+865,"Burnard","Heball","Pasadena","bheballo0@ustream.tv",11608.3333333333,3,1
+866,"Grayce","Soppeth","Danbury","gsoppetho1@tripod.com",19657,1,3
+867,"Evered","Mawdsley","Oakland","emawdsleyo2@github.io",8668,3,1
+868,"Anne","Mayhou","Chicago","amayhouo3@zdnet.com",6773,2,2
+869,"Sena","Eggleson","Philadelphia","segglesono4@slideshare.net",16316.6666666667,3,1
+870,"Nissie","Handford","Bronx","nhandfordo5@fc2.com",12094,1,2
+871,"Daveen","Haydon","Raleigh","dhaydono6@jigsy.com",18565,1,3
+872,"Mitchell","Gealy","Washington","mgealyo7@marketwatch.com",15495.5,2,3
+873,"Baudoin","Sinnett","Rochester","bsinnetto8@economist.com",15705.6,5,1
+874,"Bard","Harron","Tucson","bharrono9@businessinsider.com",10136,3,1
+877,"Saba","Kedie","Green Bay","skedieoc@eventbrite.com",15730,3,1
+878,"Elnora","Agus","Virginia Beach","eagusod@mit.edu",16849,1,3
+882,"Pepe","Wethey","Fort Smith","pwetheyoh@boston.com",11281,2,2
+884,"Mord","Featenby","Pensacola","mfeatenbyoj@bizjournals.com",22280,1,3
+885,"Brock","Innett","Des Moines","binnettok@cnbc.com",20091,2,3
+886,"Ina","Legonidec","Philadelphia","ilegonidecol@google.pl",22633,2,3
+888,"Norman","Wickens","Burbank","nwickenson@netscape.com",13514,2,2
+891,"Derrek","Reeders","Tuscaloosa","dreedersoq@g.co",10838,1,2
+898,"Lauralee","Innocent","Saint Louis","linnocentox@ow.ly",13561,1,2
+899,"Tobin","Maciejak","Corpus Christi","tmaciejakoy@scientificamerican.com",14431,2,2
+900,"Lia","Pablos","Kansas City","lpablosoz@printfriendly.com",5955.33333333333,3,1
+901,"Allina","Belsey","Cape Coral","abelseyp0@aboutads.info",10327,1,2
+902,"Justine","Vedishchev","New York City","jvedishchevp1@ehow.com",5804,1,2
+903,"Dalila","Heyfield","Springfield","dheyfieldp2@alexa.com",9070,2,2
+904,"Lusa","Craft","Norfolk","lcraftp3@scientificamerican.com",19555.5,4,1
+905,"Katalin","Tatchell","Birmingham","ktatchellp4@businessinsider.com",7616,1,2
+906,"Adena","Twopenny","Memphis","atwopennyp5@craigslist.org",12195.5,2,2
+907,"Harbert","Sanchiz","Fairbanks","hsanchizp6@bing.com",6052,1,2
+908,"Rockwell","Restill","Waco","rrestillp7@washington.edu",12579.2,5,1
+910,"Dalston","Cheevers","Columbus","dcheeversp9@cisco.com",19746,1,3
+911,"Zarla","Hainning","Albany","zhainningpa@themeforest.net",10913.25,4,1
+914,"Sibella","Thickins","Dayton","sthickinspd@symantec.com",3909.5,2,2
+915,"Trixy","Hugin","Carson City","thuginpe@nasa.gov",19802,3,1
+916,"Carleen","Doumerc","El Paso","cdoumercpf@ebay.co.uk",18096,2,3
+919,"Lorilyn","Snodin","Washington","lsnodinpi@soup.io",3517,1,2
+920,"Mandy","Ouldcott","South Lake Tahoe","mouldcottpj@wikispaces.com",10809,2,2
+924,"Jonathon","Mates","New Orleans","jmatespn@example.com",5795,4,1
+925,"Roz","Waller-Bridge","Houston","rwallerbridgepo@unicef.org",11388,1,2
+927,"Isaiah","Gepp","Akron","igepppq@nyu.edu",7226,1,2
+928,"Fernando","Gunstone","Aurora","fgunstonepr@sitemeter.com",15389,3,1
+930,"Joycelin","Otham","Omaha","jothampt@aol.com",6279,1,2
+931,"D'arcy","Babcock","Syracuse","dbabcockpu@si.edu",18492,2,3
+934,"Micky","McCool","Montgomery","mmccoolpx@tinyurl.com",3457,1,2
+938,"Margaret","Bowman","Flushing","mbowmanq1@icio.us",13161,4,1
+939,"Manolo","Torn","Tampa","mtornq2@elegantthemes.com",6592,4,1
+943,"Jere","Delph","Springfield","jdelphq6@issuu.com",5806.5,2,2
+945,"Monique","Vipan","El Paso","mvipanq8@whitehouse.gov",12858.6666666667,3,1
+948,"Heda","Laste","Hicksville","hlasteqb@studiopress.com",16921.5,2,3
+949,"Israel","Loude","Waco","iloudeqc@mozilla.org",12775,1,2
+957,"Stavro","Bickers","Helena","sbickersqk@guardian.co.uk",12163,1,2
+958,"Nancee","Mixer","San Diego","nmixerql@tumblr.com",17999,3,1
+961,"Ondrea","Twizell","Boston","otwizellqo@eventbrite.com",13692,1,2
+962,"Letizia","Emanuelov","Dearborn","lemanuelovqp@bravesites.com",9852.5,4,1
+963,"Rory","Muzzlewhite","Shreveport","rmuzzlewhiteqq@amazon.co.uk",13359,3,1
+964,"Rebeca","Francklin","Bronx","rfrancklinqr@hao123.com",1732,2,2
+965,"Dayna","Collett","San Antonio","dcollettqs@patch.com",20895,1,3
+970,"Carmelita","Dmitrienko","Philadelphia","cdmitrienkoqx@theatlantic.com",12000.5,2,2
+971,"Wyatt","Gingedale","Schenectady","wgingedaleqy@scientificamerican.com",21776,1,3
+973,"Murdoch","Danilyuk","New Bedford","mdanilyukr0@ebay.co.uk",20721,1,3
+975,"Dolph","McMonies","Cincinnati","dmcmoniesr2@zdnet.com",11488,2,2
+976,"Stevy","Huntly","Peoria","shuntlyr3@multiply.com",16717,2,3
+979,"Dorette","Couling","Omaha","dcoulingr6@ehow.com",3992,1,2
+981,"Marion","Collings","Saint Louis","mcollingsr8@domainmarket.com",9636,1,2
+985,"Noak","Gaw","Los Angeles","ngawrc@zdnet.com",24070,1,3
+986,"Shawn","Heckle","Jacksonville","shecklerd@wunderground.com",17819,1,3
+988,"Meagan","Farndon","Cincinnati","mfarndonrf@last.fm",19224,1,3
+989,"Garv","Koeppke","Richmond","gkoeppkerg@macromedia.com",18607,1,3
+991,"Nahum","Brundrett","Columbus","nbrundrettri@psu.edu",18115.5,2,3
+992,"Tine","Broke","Washington","tbrokerj@twitter.com",1060,1,2
+994,"Maryanne","Chandler","Seminole","mchandlerrl@rambler.ru",13732.2,5,1
+995,"Farand","Lennard","Lexington","flennardrm@economist.com",10909.25,4,1
+996,"Sande","Chidley","Atlanta","schidleyrn@loc.gov",11441.5,2,2
+997,"Cal","Orgee","Panama City","corgeero@ameblo.jp",18385,2,3
+999,"Quint","Mirfin","Charlotte","qmirfinrq@earthlink.net",10058,3,1

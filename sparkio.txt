@@ -1,0 +1,39 @@
+
+spark-shell --packages com.databricks:spark-csv_2.10:1.5.0
+
+->Load customer into customer_data
+val customerDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/sample/Cust360-DataSet/1customer.csv")
+customerDF.registerTempTable("customer_data")
+sqlContext.sql("CREATE TABLE customer_data STORED AS ORC  AS SELECT * from customer_data")
+
+->Load product into product_data
+val productDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/sample/Cust360-DataSet/2products.csv")
+productDF.registerTempTable("product_data")
+sqlContext.sql("CREATE TABLE product_data STORED AS ORC  AS SELECT * from product_data")
+
+->Load address into address_data
+val addressDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/sample/Cust360-DataSet/2address.csv")
+addressDF.registerTempTable("address_data")
+sqlContext.sql("CREATE TABLE address_data STORED AS ORC  AS SELECT * from address_data")
+
+
+->Load transactions into transactions_data
+val transactionsDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/sample/Cust360-DataSet/3transactions.csv")
+transactionsDF.registerTempTable("transactions_data")
+sqlContext.sql("CREATE TABLE transactions_data STORED AS ORC  AS SELECT * from transactions_data")
+
+
+
+
+-> D-Normalize data to DF using SQL
+
+val customer_360DF = sqlContext.sql("SELECT customer_data.CUSTOMER_ID,FIRST_NAME,MIDDLE_NAME,LAST_NAME,DOB,GENDER,NATIONALITY,IDENTIFIER_TYPE,IDENTIFIER,MARITAL_STATUS,OCCUPATION,AVG_FAMILY_SIZE,INCOME_LEVEL,DATE_ONBOARDED,ADDRESS_ID,ADDRESS_TYPE,ADDRESS1,ADDRESS2,ADDRESS3,CITY,STATE,COUNTRY,ZIPCODE,PHONE,EMAIL,FAX,product_data.PRODUCT_ID,PRODUCT_NAME,PRODUCT_TYPE,PRODUCT_DESCRIPTION,ISSUE_DATE,VALID_TILL_DATE,ACCOUNT_STATUS,CREDIT_CARD_LIMIT,INTEREST_RATE,TENURE,SERVICE_CHARGES,FD_PRINCIPAL_AMOUNT,LOAN_COLLATERAL_VALUE,LOAN_AMOUNT,TRANSACTION_ID,MERCHANT_NAME,TRANSACTION_DESCRIPTION,TRANSACTION_AMOUNT,TYPE_DEPOSIT_WITHDRAWAL,TRANSACTION_DATE,CHANNEL,floor(DATEDIFF(CURRENT_DATE,from_unixtime(unix_timestamp(DOB,'dd-mm-yyyy'),'yyyy-MM-dd'))/365) AGE FROM datalake.customer_data LEFT OUTER JOIN datalake.address_data ON (customer_data.CUSTOMER_ID = address_data.CUSTOMER_ID) LEFT OUTER JOIN datalake.transactions_data ON (customer_data.CUSTOMER_ID = transactions_data.CUSTOMER_ID) LEFT OUTER JOIN datalake.product_data ON (transactions_data.PRODUCT_ID = product_data.PRODUCT_ID) WHERE product_data.PRODUCT_TYPE='credit card'")
+
+->Load DF to newcustomer360
+customer_360DF.write.format("com.databricks.spark.csv").option("header", "true").save("file:///datadrive/home/azureuser/sample/data/cust360")
+
+val customerDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/sample/Cust360-DataSet/1customer.csv")
+customerDF.registerTempTable("customer_spark")
+sqlContext.sql("CREATE TABLE customer_spark STORED AS ORC  AS SELECT * from customer_spark")
+
+

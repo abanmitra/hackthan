@@ -1,0 +1,35 @@
+
+->Load customer into customer
+val customerDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/hackthan/sample/customer.csv")
+customerDF.registerTempTable("customer")
+sqlContext.sql("CREATE TABLE hackthan.customer STORED AS ORC  AS SELECT * from customer")
+
+->Load product into product
+val productDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/hackthan/sample/products.csv")
+productDF.registerTempTable("product")
+sqlContext.sql("CREATE TABLE hackthan.product STORED AS ORC  AS SELECT * from product")
+
+->Load address into address
+val addressDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/hackthan/sample/address.csv")
+addressDF.registerTempTable("address")
+sqlContext.sql("CREATE TABLE hackthan.address STORED AS ORC  AS SELECT * from address")
+
+
+->Load transactions into transactions
+val transactionsDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/hackthan/sample/transactions.csv")
+transactionsDF.registerTempTable("transactions")
+sqlContext.sql("CREATE TABLE hackthan.transactions STORED AS ORC  AS SELECT * from transactions")
+
+->Load transactions into service_requests
+val serviceRequestsDF = sqlContext.read.format("csv").option("header", "true").option("inferSchema", "true").load("file:///datadrive/home/azureuser/hackthan/sample/service-requests.csv")
+serviceRequestsDF.registerTempTable("service_requests")
+sqlContext.sql("CREATE TABLE hackthan.service_requests STORED AS ORC  AS SELECT * from service_requests")
+
+
+-> D-Normalize data to DF using SQL
+val customer_DNorm_Data = sqlContext.sql("SELECT CUSTOMER.CUSTOMER_ID,FIRST_NAME,MIDDLE_NAME,LAST_NAME,DOB,GENDER,NATIONALITY,IDENTIFIER_TYPE,IDENTIFIER,MARITAL_STATUS,OCCUPATION,AVG_FAMILY_SIZE,INCOME_LEVEL,DATE_ONBOARDED,INCOME,ADDRESS.ADDRESS_ID,ADDRESS_TYPE,ADDRESS1,ADDRESS2,ADDRESS3,CITY,STATE,COUNTRY,ZIPCODE,PHONE,EMAIL,FAX,PRODUCT.PRODUCT_ID,PRODUCT_NAME,PRODUCT_TYPE,PRODUCT_DESCRIPTION,ISSUE_DATE,VALID_TILL_DATE,ACCOUNT_STATUS,CREDIT_CARD_LIMIT,INTEREST_RATE,TENURE,SERVICE_CHARGES,FD_PRINCIPAL_AMOUNT,LOAN_COLLATERAL_VALUE,LOAN_AMOUNT,TRANSACTIONS.TRANSACTION_ID,MERCHANT_NAME,TRANSACTION_DESCRIPTION,TRANSACTION_AMOUNT,TYPE_DEPOSIT_WITHDRAWAL,TRANSACTION_DATE,TRANSACTIONS.CHANNEL,TRANSACTION_MONTH,TRANSACTION_YEAR,SERVICE_REQUESTS.SR_ID,SR_DESCRIPTION,SR_OPEN_DATE,SR_CLOSE_DATE,SR_TYPE,SERVICE_REQUESTS.CHANNEL AS  SERVICE_REQUESTS_CHANNEL,SR_CUST_FEEDBACK,DIRECTION_OF_COMMUNICATION,COMMUNICATION_MONTH,COMMUNICATION_YEAR ,floor(DATEDIFF(CURRENT_DATE,from_unixtime(unix_timestamp(DOB,'dd-mm-yyyy'),'yyyy-MM-dd'))/365) AGE FROM HACKTHAN.CUSTOMER LEFT OUTER JOIN HACKTHAN.ADDRESS ON (CUSTOMER.CUSTOMER_ID = ADDRESS.CUSTOMER_ID) LEFT OUTER JOIN HACKTHAN.TRANSACTIONS ON (CUSTOMER.CUSTOMER_ID = TRANSACTIONS.CUSTOMER_ID) LEFT OUTER JOIN HACKTHAN.PRODUCT ON (TRANSACTIONS.PRODUCT_ID = PRODUCT.PRODUCT_ID) LEFT OUTER JOIN HACKTHAN.SERVICE_REQUESTS ON ((CUSTOMER.CUSTOMER_ID = SERVICE_REQUESTS.CUSTOMER_ID) AND (PRODUCT.PRODUCT_ID = SERVICE_REQUESTS.PRODUCT_ID))")
+
+->Load DF to customer_DNorm_Data
+customer_DNorm_Data.write.format("com.databricks.spark.csv").option("header", "true").save("file:////datadrive/home/azureuser/hackthan/data")
+customer_DNorm_Data.registerTempTable("customer_dnorm")
+sqlContext.sql("CREATE TABLE hackthan.customer_dnorm STORED AS ORC  AS SELECT * from customer_dnorm")
